@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring.Net", "Spring.Net\Spring.Net.csproj", "{E141C2CA-EDF8-40C2-8E52-E362447FDFB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringThreeWay", "SpringThreeWay\SpringThreeWay.csproj", "{5918AA13-C85D-4B18-8899-CF3F560FE056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringAOP", "SpringAOP\SpringAOP.csproj", "{819BCF97-E5E8-4199-9EF6-D9AB63E4CF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E141C2CA-EDF8-40C2-8E52-E362447FDFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E141C2CA-EDF8-40C2-8E52-E362447FDFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E141C2CA-EDF8-40C2-8E52-E362447FDFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E141C2CA-EDF8-40C2-8E52-E362447FDFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5918AA13-C85D-4B18-8899-CF3F560FE056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5918AA13-C85D-4B18-8899-CF3F560FE056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5918AA13-C85D-4B18-8899-CF3F560FE056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5918AA13-C85D-4B18-8899-CF3F560FE056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819BCF97-E5E8-4199-9EF6-D9AB63E4CF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819BCF97-E5E8-4199-9EF6-D9AB63E4CF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819BCF97-E5E8-4199-9EF6-D9AB63E4CF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819BCF97-E5E8-4199-9EF6-D9AB63E4CF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
